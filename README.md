@@ -1,3 +1,6 @@
+    wget https://raw.githubusercontent.com/disappointingsupernova/wireguard-install/master/wireguard-install.sh && mv wireguard-install.sh /usr/bin/wireguard-install && chmod +x /usr/bin/wireguard-install
+
+
 # WireGuard installer
 
 ![Lint](https://github.com/angristan/wireguard-install/workflows/Lint/badge.svg)
